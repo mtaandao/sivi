@@ -177,7 +177,7 @@ function weblusive_get_option( $name ) {
 }
 
 //Docs Url
-$docs_url = "http://sivi.weblusive-themes.com/documentation/";
+$docs_url = "http://mtaandao.co.ke/themes/sivi/documentation/";
 
 // Redirect To Theme Options Page on Activation
 if (is_admin() && isset($_GET['activated'])){
@@ -485,11 +485,6 @@ function my_theme_register_required_plugins() {
         array(
             'name'      => 'Contact Form 7',
             'slug'      => 'contact-form-7',
-            'required'  => false,
-        ),
-		array(
-            'name'      => 'Juiz Social Post Sharer',
-            'slug'      => 'juiz-social-post-sharer',
             'required'  => false,
         ),
 		

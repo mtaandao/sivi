@@ -1,11 +1,11 @@
 <?php
 
 /*******************dropdown button******************/
-class MNBakeryShortCode_Dropbuttongroup extends MNBakeryShortCodesContainer{
+class WPBakeryShortCode_Dropbuttongroup extends WPBakeryShortCodesContainer{
 
 }
 /*******************************************/
-class MNBakeryShortCode_Dropbutton extends MNBakeryShortCode {
+class WPBakeryShortCode_Dropbutton extends WPBakeryShortCode {
 	
 }
 

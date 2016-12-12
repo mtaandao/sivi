@@ -1,9 +1,9 @@
 <?php
-class MNBakeryShortCode_Timeline extends MNBakeryShortCodesContainer{
+class WPBakeryShortCode_Timeline extends WPBakeryShortCodesContainer{
 
 }
 /*******************************************/
-class MNBakeryShortCode_Timeitem extends MNBakeryShortCode {
+class WPBakeryShortCode_Timeitem extends WPBakeryShortCode {
 
 }
 /**********************************************************/

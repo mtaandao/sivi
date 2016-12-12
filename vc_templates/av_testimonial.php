@@ -1,12 +1,12 @@
 <?php
 
-class MNBakeryShortCode_Testimonialgroup extends MNBakeryShortCodesContainer {
+class WPBakeryShortCode_Testimonialgroup extends WPBakeryShortCodesContainer {
 
 
 }
 /****************************************************/
 
-class MNBakeryShortCode_Testimonial extends MNBakeryShortCode {
+class WPBakeryShortCode_Testimonial extends WPBakeryShortCode {
 
 }
 vc_map( array(

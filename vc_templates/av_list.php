@@ -1,9 +1,9 @@
 <?php
-class MNBakeryShortCode_List extends MNBakeryShortCodesContainer{
+class WPBakeryShortCode_List extends WPBakeryShortCodesContainer{
 
 }
 /*******************************************/
-class MNBakeryShortCode_Listitem extends MNBakeryShortCode {
+class WPBakeryShortCode_Listitem extends WPBakeryShortCode {
 
 }
 /**********************************************************/

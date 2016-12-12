@@ -7,7 +7,7 @@
  * Description: Display social links.
  * Version: 1.0
  * Author: Weblusive
- * Author URI: http://www.weblusive.com
+ * Author URI: http://www.mtaandao.co.ke
  * ************************************************** */
 class alc_social_widget extends MN_Widget {
 
@@ -207,7 +207,7 @@ register_widget('alc_social_widget');
  * Description: Retrieve and display photos from Flickr.
  * Version: 1.0
  * Author: Weblusive
- * Author URI: http://www.weblusive.com
+ * Author URI: http://www.mtaandao.co.ke
  * ************************************************** */
 class alc_flickr_widget extends MN_Widget {
 
@@ -283,7 +283,7 @@ register_widget('alc_flickr_widget');
  * Description: Retrieve and display latest works (Portfolio).
  * Version: 1.0
  * Author: Weblusive
- * Author URI: http://www.weblusive.com
+ * Author URI: http://www.mtaandao.co.ke
  * ************************************************** */
 class alc_works_widget extends MN_Widget {
 
@@ -371,7 +371,7 @@ register_widget('alc_works_widget');
  * Description: Retrieve and display latest blog posts.
  * Version: 1.0
  * Author: Weblusive
- * Author URI: http://www.weblusive.com
+ * Author URI: http://www.mtaandao.co.ke
  * ************************************************** */
 class alc_blogposts_widget extends MN_Widget {
 
@@ -481,7 +481,7 @@ register_widget('alc_blogposts_widget');
  * Description: Retrieve and display popular/latest posts/latest comments.
  * Version: 1.0
  * Author: Weblusive
- * Author URI: http://www.weblusive.com
+ * Author URI: http://www.mtaandao.co.ke
  * ************************************************** */
 class alc_totalposts_widget extends MN_Widget {
 
@@ -638,7 +638,7 @@ register_widget('alc_totalposts_widget');
  * Description: Display contact widget on footer.
  * Version: 1.0
  * Author: Weblusive
- * Author URI: http://www.weblusive.com
+ * Author URI: http://www.mtaandao.co.ke
  * ************************************************** */
 /**
  * Contact Form Widget Class
@@ -744,7 +744,7 @@ register_widget('alc_Contact_Form');
  * Description: Displays Latest Tweets.
  * Version: 1.1
  * Author: Weblusive
- * Author URI: http://www.weblusive.com
+ * Author URI: http://www.mtaandao.co.ke
  * ************************************************** */
 
 class sivi_recent_tweets extends MN_Widget {

@@ -1,11 +1,11 @@
 <?php
 
 /*******************Vertical Navigation******************/
-class MNBakeryShortCode_Vernavgroup extends MNBakeryShortCodesContainer{
+class WPBakeryShortCode_Vernavgroup extends WPBakeryShortCodesContainer{
 
 }
 /*******************************************/
-class MNBakeryShortCode_Vernav extends MNBakeryShortCode {
+class WPBakeryShortCode_Vernav extends WPBakeryShortCode {
 	
 }
 

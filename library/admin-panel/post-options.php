@@ -149,7 +149,7 @@ function portfolio_options(){
 			weblusive_post_options(				
 				array(	"name" => "Portfolio Item custom destination URL",
 						"id" => "_portfolio_link",
-						"hint" => "If you want the portfolio item have custom link rather going to item's details page. Example: http://www.weblusive.com",
+						"hint" => "If you want the portfolio item have custom link rather going to item's details page. Example: http://www.mtaandao.co.ke",
 						"type" => "text")
 				);
 											

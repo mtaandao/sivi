@@ -1,10 +1,10 @@
 <?php
 /****************** content carousel ********************/
-class MNBakeryShortCode_Carousel extends MNBakeryShortCodesContainer{
+class WPBakeryShortCode_Carousel extends WPBakeryShortCodesContainer{
 
 }
 /***/
-class MNBakeryShortCode_Caritem extends MNBakeryShortCode {
+class WPBakeryShortCode_Caritem extends WPBakeryShortCode {
 
 }
 

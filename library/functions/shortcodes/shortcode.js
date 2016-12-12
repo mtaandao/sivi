@@ -16,8 +16,8 @@
 			return {
 				longname : "Weblusive Shortcodes",
 				author : 'Weblusive',
-				authorurl : 'http://www.weblusive.com/',
-				infourl : 'http://www.weblusive.com/',
+				authorurl : 'http://www.mtaandao.co.ke/',
+				infourl : 'http://www.mtaandao.co.ke/',
 				version : "1.0"
 			};
 		}
